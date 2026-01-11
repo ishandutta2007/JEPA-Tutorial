@@ -64,3 +64,12 @@ This is a community-driven project, and we welcome contributions! Whether you wa
 ## ⚖️ License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
+## 💬 Community & Support 🤝
+
+-   **📚 [Documentation](https://docs.open-workflows.com):** Check out our official documentation for detailed guides and tutorials.
+-   **🗣️ [Forum](https://community.open-workflows.com):** Join our community forum to ask questions, share your projects, and connect with other users.
+-   **💬 [Discord](https://discord.com/invite/jc4xtF58Ve):** Chat with us on Discord for real-time support and discussions.
+-   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news and updates.
+-   **🐦 [Github](https://github.com/ishandutta2007):** Follow me on Github for the latest commits and updates.
