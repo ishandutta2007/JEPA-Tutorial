@@ -57,6 +57,10 @@ Here is the complete roadmap for our journey into the world of JEPA.
 
 ---
 
+## ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/JEPA-Tutorial&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/JEPA-Tutorial&type=date&legend=top-left)
+
 ## 🙌 How to Contribute
 
 This is a community-driven project, and we welcome contributions! Whether you want to fix a typo, add a new explanation, or create a new code example, your help is appreciated. Please read our `CONTRIBUTING.md` file to get started.
